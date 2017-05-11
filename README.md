@@ -1,0 +1,2 @@
+# STDemo
+Smart Template Demo
